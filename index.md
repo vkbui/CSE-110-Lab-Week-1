@@ -1,4 +1,4 @@
-#**Vuong Bui**
+# **Vuong Bui**
 ![UCSD](https://library.ucsd.edu/news-events/wp-content/uploads/2020/08/Library-Blog-Post-Feature-1920x1080-50th-1.jpg)
 
 I am a second year Computer Engineering student at UC San Diego.
