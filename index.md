@@ -1,6 +1,5 @@
-!(https://library.ucsd.edu/news-events/wp-content/uploads/2020/08/Library-Blog-Post-Feature-1920x1080-50th-1.jpg)
+![UCSD](https://library.ucsd.edu/news-events/wp-content/uploads/2020/08/Library-Blog-Post-Feature-1920x1080-50th-1.jpg)
 #**Vuong Bui**
-I am a second year Computer Engineering student at UC San Diego.
 I am a second year Computer Engineering student at UC San Diego.
 > My favorite programming languages are Java and C++.
 This is how you print in Java:
