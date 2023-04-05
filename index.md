@@ -7,7 +7,6 @@ This is how you print in Java:
 System.out.println("Hello, world!");
 ```
 My favorite movie of 2023 is [Air](https://en.wikipedia.org/wiki/Air_(2023_film)).
-[Return to top](#Vuong-Bui)
 [My README file](README.md)
 
 My favorite movies of all time:
@@ -23,3 +22,5 @@ My favorite foods:
 
 Tasks:
 - [x] Finish lab 1
+
+[Return to top](#Vuong-Bui)
